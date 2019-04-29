@@ -79,13 +79,11 @@ Not using Bitcoin is safe for you and for all of us.
     <style>
       div {
         width: 100%;
-        height: 1000px;
+        height: 600px;
         border: 1px solid #bcbcbc;
       }
       .a {
-        background-image: url( "
-![football.jpg](.\HTML\football.jpg)
-  " );
+        background-image: url( "\HTML\football.jpg" );
       }
     </style>
   </head>
