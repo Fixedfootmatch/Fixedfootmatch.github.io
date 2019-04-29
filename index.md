@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+
 Nice to meet you
----
 
 We know you've been fooled by fraudsters.
 And the fact that a lot of crooks are taking your money.
@@ -35,22 +35,20 @@ If you buy us two matches, we're free once.
 
 
 
-## 
-### 
-#### 
 
 
 
 
 
 
-
-Payment
 ---
+
+
 We don't accept bitcoin.
 only getting Monero or Dash Coin.
 
 The price will change every time you contact us.
+
 E-mail - Fixedfootmatch@protonmail.ch
 Contact me by e-mail
 
@@ -74,9 +72,7 @@ Not using Bitcoin is safe for you and for all of us.
 
 
 
-# 
-## 
-### 
+
 
 
 We want you to trust us and change your life.
