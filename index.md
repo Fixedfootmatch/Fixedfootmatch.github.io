@@ -71,7 +71,29 @@ Not using Bitcoin is safe for you and for all of us.
 
 
 
-
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS</title>
+    <style>
+      div {
+        width: 100%;
+        height: 1000px;
+        border: 1px solid #bcbcbc;
+      }
+      .a {
+        background-image: url( "
+![football.jpg](.\HTML\football.jpg)
+  " );
+      }
+    </style>
+  </head>
+  <body>
+    <div class="a">
+    </div>
+  </body>
+</html>
 
 
 
